@@ -1,3 +1,4 @@
+React Product
 <p align="center">
   <img src="resources/readme/fullstackreact-yelp-clone-tutorial.png" alt="Fullstack React Yelp Clone Tutorial" />
 </p>
